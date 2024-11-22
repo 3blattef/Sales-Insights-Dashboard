@@ -175,7 +175,7 @@ ORDER BY total_sales DESC;
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/sales-insights-dashboard.git
+[   git clone https://github.com/yourusername/sales-insights-dashboard.git](https://github.com/3blattef/Sales-Insights-Dashboard.git)
    ```
 
 2. **Database Setup**
