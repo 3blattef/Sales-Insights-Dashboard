@@ -63,5 +63,5 @@ This project demonstrates the practical application of data analysis tools to cr
 
 The combination of SQL expertise and visualization tools resulted in a comprehensive solution for sales performance analysis and monitoring.
 
----
-*For more information or questions, please open an issue or submit a pull request.*
+ 
+ 
